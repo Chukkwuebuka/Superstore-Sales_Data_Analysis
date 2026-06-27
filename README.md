@@ -20,4 +20,4 @@ This project focuses on analyzing retail sales data to identify key business tre
 * The interactive dashboard file is provided as `Superstore_Sales_Dashboard.pbix`.
 
 ---
-💼 **Interested in my work?** [Hire me on Upwork](https;//www.upwork.com/freelancers/~01edd8baecf9e9d6a)
+💼 **Interested in my work?** [Hire me on Upwork](https://www.upwork.com/freelancers/~01edd8baecf9e9d6a)
